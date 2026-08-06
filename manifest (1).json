@@ -1,0 +1,20 @@
+{
+  "background_color": "#00ddff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "VERSO CHAT",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "VERSO CHAT",
+  "start_url": "/",
+  "theme_color": "#0065ff",
+  "id": "com.verso.chat",
+  "description": "es epico",
+  "lang": "es",
+  "categories": [
+    "business"
+  ],
+  "share_target": {
+    "method": "GET"
+  }
+}
